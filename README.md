@@ -1,2 +1,8 @@
-# metricas_image
-Proyecto para el análisis de métricas final
+# ImageJ
+
+Proyecto para analizar la calidad de código con respecto a su:
+- Acoplamiento
+- Complejidad 
+- Duplicación
+
+Proyecto base tomado de: https://imagej.nih.gov/ij/index.html
